@@ -1,2 +1,2 @@
-this is my first gir repository.
+this is my first git repository.
 author- Nomita patwal
